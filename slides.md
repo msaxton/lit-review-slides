@@ -3,6 +3,22 @@
 
 
 
+## Today's Agenda
+* Introduce myself
+* Overview of writing a literature review
+* Introduction to Zotero
+
+
+
+## Hello, I'm Micah.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+
+<h5><a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a></h5>
+<h5>micah.saxton@tufts.edu</h5>
+
+
+
 ### What is a Literature Review?
 A literature review is a piece of scholarly writing which summarizes, compares, and evaluates a clearly defined group of sources (books, articles, or other sources).  
 * What counts as literature?
@@ -91,3 +107,8 @@ The debates around the 2004 French law banning Muslim girls from wearing headsca
 * Articulate where research currently stands.
 
 * Identify problems, questions, or areas open for research.
+
+
+
+## Introducing Zotero
+##### [Zotero.org](https://www.zotero.org/)
