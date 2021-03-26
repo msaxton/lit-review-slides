@@ -1,12 +1,4 @@
 ## Writing a Literature Review
-#### Religion 10-05: Islam in the West
-
-
-
-## Today's Agenda
-* Introduce myself
-* Overview of writing a literature review
-* Introduction to Zotero
 
 
 
@@ -36,26 +28,59 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 ### How Do I Write a Literature Review?
-1. **Prepare** for the lit review by carefully reading and taking notes on your sources.
+1. Identify a topic.
 
-2. **Focus** your evaluation of each source.
+2. Define the scope of your literature review.
 
-3. **Organize** and outline your lit review.
+3. Gather the relevant literature.
 
+4. Critically engage sources individually and as a whole.
 
+5. Organize your notes and thoughts into an appropriate outline.
 
-## 1. Prepare
-
-
-### Your Sources
-Bowen, John R. *Why the French Don't like Headscarves: Islam, the State, and Public Space*. Princeton: Princeton University Press, 2007.
-
-Gemie, Sharif. *French Muslims: New Voices in Contemporary France.* University of Wales Press, 2010.
-
-Kelpel, Giles. *Terror in France: The Rise of Jihad in the West*. Princeton: Princeton University Press, 2017.
+6. Write, revise, rewrite, and revise again.
 
 
-### Guiding Questions
+
+## 1. Identify a topic.
+
+
+* A good topic for a literature review will be a research problem of some kind.
+
+* Choose a topic of interest to you and your desired audience.
+
+* Make sure you have access to literature on your topic.
+
+
+
+## 2. Define the scope of your literature review.
+
+
+## Questions to consider:
+
+* Are there well known debates or open questions related to your topic?
+
+* Which methodological perspectives are best suited for your topic?
+
+* What kinds of literature should you include?
+
+* Are there date parameters to consider? 
+
+
+
+## 3. Gather the relevant literature.
+
+
+* Search relevant databases and library catalogs using key terms and parameters from your topic and scope.
+
+* Follow citations forward and backward where appropriate.
+
+
+
+## 4. Critically engage sources individually and as a whole.
+
+
+### Guiding questions for each source:
 * Who is the author? What is the author's perspective?
 
 * What method is used? Historical? Sociological? Ethnographic?
@@ -64,25 +89,21 @@ Kelpel, Giles. *Terror in France: The Rise of Jihad in the West*. Princeton: Pri
 
 * How does the author support that thesis?
 
-* Is the argument convincing? 
+* Is the argument convincing?
+
+
+### Guiding questions for the whole:
+* Are there any patterns that emerge?
+
+* Is there a trajectory (or trajectories) of how key problems are addressed?
+
+* How does each source relate to the others?
+
+* Are there identifiable schools of thought?
 
 
 
-## 2. Focus
-
-
-**Possible focus question:**
-
-The difficulties of French Muslims integrating into French society: to what extent are they a result of France’s refusal to accommodate the religious sensibilities of its Muslim citizens and to what extent are they a result of French Muslims’ refusal to accommodate themselves to French institutions and social and political culture?
-
-
-**Possible focus question:**
-
-The debates around the 2004 French law banning Muslim girls from wearing headscarves in public schools highlighted tensions over the integration of French Muslims. How should we understand those tensions and how did the situation develop over the following decade? 
-
-
-
-## Organize
+## 5. Organize your notes and thoughts into an appropriate outline
 
 
 ### Introduction
@@ -110,5 +131,16 @@ The debates around the 2004 French law banning Muslim girls from wearing headsca
 
 
 
-## Introducing Zotero
-##### [Zotero.org](https://www.zotero.org/)
+## 6. Write, revise, rewrite, and revise again.
+
+
+### Good writing is rewriting. 
+
+Each time you rework a draft you will sharpen your understanding of the material. Your readers will be grateful.
+
+
+
+## Useful guides
+* [Literature Reviews | The Writing Center, University of North Carolina at Chapel Hill](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/)
+* [The literature Review: A Few Tips on Conducting It by Dena Taylor | Sciences writing Centre, University of Toronto](https://advice.writing.utoronto.ca/types-of-writing/literature-review/)
+* [Writing a Literature Review by S. C. Pan | Department of Psychology, University of California San Diego](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/writing-lit-review.html#1.-Identify-and-define-the-topi)
