@@ -12,7 +12,9 @@
 
 
 ### What is a Literature Review?
-A literature review is a piece of scholarly writing which summarizes, compares, and evaluates a clearly defined group of sources (books, articles, or other sources).  
+A literature review is a piece of scholarly writing which summarizes, compares, and evaluates a clearly defined group of sources (books, articles, or other sources).
+
+
 * What counts as literature?
 * What makes it scholarly?
 * How is it different from a book review?
@@ -42,42 +44,48 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 
-## 1. Identify a topic.
+### 1. Identify a topic.
 
 
 * A good topic for a literature review will be a research problem of some kind.
 
+
 * Choose a topic of interest to you and your desired audience.
+
 
 * Make sure you have access to literature on your topic.
 
 
 
-## 2. Define the scope of your literature review.
+### 2. Define the scope of your literature review.
 
 
-## Questions to consider:
+### Questions to consider:
 
 * Are there well known debates or open questions related to your topic?
 
+
 * Which methodological perspectives are best suited for your topic?
 
+
 * What kinds of literature should you include?
+
 
 * Are there date parameters to consider? 
 
 
 
-## 3. Gather the relevant literature.
+### 3. Gather the relevant literature.
 
 
 * Search relevant databases and library catalogs using key terms and parameters from your topic and scope.
+
 
 * Follow citations forward and backward where appropriate.
 
 
 
-## 4. Critically engage sources individually and as a whole.
+### 4. Critically engage sources individually and as a whole.
 
 
 ### Guiding questions for each source:
@@ -103,7 +111,7 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 
-## 5. Organize your notes and thoughts into an appropriate outline
+### 5. Organize your notes and thoughts into an appropriate outline
 
 
 ### Introduction
@@ -131,16 +139,16 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 
-## 6. Write, revise, rewrite, and revise again.
+### 6. Write, revise, rewrite, and revise again.
 
 
-### Good writing is rewriting. 
+#### Good writing is rewriting. 
 
 Each time you rework a draft you will sharpen your understanding of the material. Your readers will be grateful.
 
 
 
-## Useful guides
+### Useful guides
 * [Literature Reviews | The Writing Center, University of North Carolina at Chapel Hill](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/)
 * [The literature Review: A Few Tips on Conducting It by Dena Taylor | Sciences writing Centre, University of Toronto](https://advice.writing.utoronto.ca/types-of-writing/literature-review/)
 * [Writing a Literature Review by S. C. Pan | Department of Psychology, University of California San Diego](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/writing-lit-review.html#1.-Identify-and-define-the-topi)
