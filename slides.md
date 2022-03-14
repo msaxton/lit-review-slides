@@ -2,16 +2,16 @@
 
 
 
-## Hello, I'm Micah.
+### Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-
-<h5><a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a></h5>
-<h5>micah.saxton@tufts.edu</h5>
+micah.saxton@tufts.edu
 
 
 
 ### What is a Literature Review?
+
+
 A literature review is a piece of scholarly writing which summarizes, compares, and evaluates a clearly defined group of sources (books, articles, or other sources).
 
 
@@ -23,6 +23,8 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 ### Why Should I Write a Literature Review?
+
+
 * The purpose of a lit review is to contextualize, summarize, and, most importantly, evaluate a clearly demarcated body of scholarly literature.
 
 * Lit reviews can be used as an introduction to a larger research project, or they can stand alone.
@@ -89,23 +91,35 @@ A literature review is a piece of scholarly writing which summarizes, compares, 
 
 
 ### Guiding questions for each source:
+
+
 * Who is the author? What is the author's perspective?
+
 
 * What method is used? Historical? Sociological? Ethnographic?
 
+
 * What is the author's thesis?
 
+
 * How does the author support that thesis?
+
 
 * Is the argument convincing?
 
 
+
 ### Guiding questions for the whole:
+
+
 * Are there any patterns that emerge?
+
 
 * Is there a trajectory (or trajectories) of how key problems are addressed?
 
+
 * How does each source relate to the others?
+
 
 * Are there identifiable schools of thought?
 
